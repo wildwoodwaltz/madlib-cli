@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-[regex101](regex101.com)
+[regex101](https://regex101.com)
 
 ### File IO and Exceptions ( MADLIBS )
 
@@ -19,4 +19,6 @@ Python3.10
     ---
     source .venv/bin/activate
     $ pip install -r requirements.txt
-    $ pytest
+    pytest
+
+Note: there is no end user functionality at this time. 
